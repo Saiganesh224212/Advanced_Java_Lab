@@ -8,7 +8,7 @@
   * Saving employee details to a database (`saveToDatabase()`)
 * This makes the class harder to maintain and test.
 
-1. **Open/Closed Principle (OCP) Violation** :
+2. **Open/Closed Principle (OCP) Violation** :
 
 * If we want to change the storage method (e.g., save to a file instead of a database), we must modify `Employee`, violating OCP.
 * The class should be  **open for extension but closed for modification** .
