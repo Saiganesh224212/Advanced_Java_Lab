@@ -9,6 +9,7 @@ This folder contains all the **assignments for the Advanced Java Lab (UCSH-605)*
 | **Assignment 1** | Refactor a Poorly Designed Code (Apply SRP & OCP) | **Single Responsibility Principle (SRP), Open/Closed Principle (OCP)** |
 | **Assignment 2** | Implement Liskov Substitution Principle (LSP) | **Liskov Substitution Principle (LSP), Class Hierarchy Design** |
 | **Assignment 3** | Payment Processing System (Applying All SOLID Principles) | **SOLID Principles, Interface Segregation, Dependency Inversion** |
+| **Assignment 4** | Chat App using Socket Programming in Java | **1) One-to-One 2) One-to-Many** |
 
 ---
 
@@ -101,6 +102,8 @@ how_to_run:
         - java easy1
         - java easy2
         - java diffass3
+
+## **🔹 Assignment 4: Design a Chat App using Sockets in JAVA**
 
 
 
